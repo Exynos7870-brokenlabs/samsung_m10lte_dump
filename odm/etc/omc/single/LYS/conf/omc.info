@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-M105G_OJM_LYS_QQ_0003</version>
+  <model>
+    <name>SM-M105G</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0003</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>2</carrierCount>
+    <carrier>
+      <mcc>606</mcc>
+      <mnc>00</mnc>
+      <networkName>Libyana</networkName>
+    </carrier>
+    <carrier>
+      <mcc>606</mcc>
+      <mnc>01</mnc>
+      <networkName>Almadar</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

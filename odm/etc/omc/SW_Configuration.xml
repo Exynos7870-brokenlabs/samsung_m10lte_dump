@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-M105G</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OJM</MultiCode>
+    <CustomerDataSet>
+        <CSCName>M105GOJM</CSCName>
+        <CSCVersion>ACWA1</CSCVersion>
+        <NbCustomer>7</NbCustomer>
+        <CustomerData src="/Customer/MID/customer.xml" />
+        <CustomerData src="/Customer/MWD/customer.xml" />
+        <CustomerData src="/Customer/KSA/customer.xml" />
+        <CustomerData src="/Customer/TUR/customer.xml" />
+        <CustomerData src="/Customer/XSG/customer.xml" />
+        <CustomerData src="/Customer/EGY/customer.xml" />
+        <CustomerData src="/Customer/LYS/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>EGY</CustomerCode>
+            <Version>SAOMC_SM-M105G_OJM_EGY_QQ_0004</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.samsung.android.email.provider" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>KSA</CustomerCode>
+            <Version>SAOMC_SM-M105G_OJM_KSA_QQ_0004</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.samsung.android.email.provider" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>LYS</CustomerCode>
+            <Version>SAOMC_SM-M105G_OJM_LYS_QQ_0003</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.samsung.android.email.provider" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>MID</CustomerCode>
+            <Version>SAOMC_SM-M105G_OJM_MID_QQ_0004</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.samsung.android.email.provider" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>MWD</CustomerCode>
+            <Version>SAOMC_SM-M105G_OJM_MWD_QQ_0004</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.samsung.android.email.provider" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>TUR</CustomerCode>
+            <Version>SAOMC_SM-M105G_OJM_TUR_QQ_0005</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+            <Packages>
+                <package name="com.setk.widget" />
+                <package name="com.galaxyfirsatlari" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.samsung.android.email.provider" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+                <package name="trendyol.com" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XSG</CustomerCode>
+            <Version>SAOMC_SM-M105G_OJM_XSG_QQ_0005</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.samsung.android.email.provider" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
